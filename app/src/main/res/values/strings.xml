@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">gymz</string>
+
+    <string-array name="body_parts">
+        <item>back</item>
+        <item>cardio</item>
+        <item>chest</item>
+        <item>waist</item>
+    </string-array>
+
+    <string-array name="target_muscles">
+        <item>abductors</item>
+        <item>abs</item>
+        <item>adductors</item>
+        <item>upper back</item>
+    </string-array>
+</resources>
